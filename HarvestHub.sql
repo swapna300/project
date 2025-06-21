@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `agroculture`
+-- Database: `harvesthub`
 --
 
 -- --------------------------------------------------------
@@ -61,7 +61,7 @@ CREATE TABLE `blogfeedback` (
 --
 
 INSERT INTO `blogfeedback` (`blogId`, `comment`, `commentUser`, `commentPic`, `commentTime`) VALUES
-(19, 'Mast yarr', 'ThePhenom', 'profile0.png', '2018-02-25 13:09:54');
+(19, 'very good', 'ThePhenom', 'profile0.png', '2018-02-25 13:09:54');
 
 -- --------------------------------------------------------
 
