@@ -3,10 +3,10 @@
     $serverName = "localhost";
     $userName = "root";
     $password = "";
-    $dbName = "harvesthub-copy";
+    $dbName = "harvesthub";
 
     
-    $conn = new mysqli("localhost", "root", "", "harvesthub-copy");
+    $conn = new mysqli("localhost", "root", "", "harvesthub");
     if (!$conn)
     {
         die("Connection failed: " . mysqli_connect_error());
