@@ -4,7 +4,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>Farm2door</title>
+		<title>HarvestHub</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -33,7 +33,7 @@
 		<!-- Banner -->
 			<section id="banner" class="wrapper">
 				<div class="container">
-				<h2>Farm2door</h2>
+				<h2>HarvestHub</h2>
 				<p>Your Product Our Market</p>
 				<br><br>
 				<center>
@@ -55,7 +55,7 @@
 			<section id="one" class="wrapper style1 align-center">
 				<div class="container">
 					<header>
-						<h2>Farm2door</h2>
+						<h2>HarvestHub</h2>
 						<p>Explore the new way of trading...</p>
 					</header>
 					<div class="row 200%">
@@ -82,7 +82,7 @@
 			<h1 style="font: 35px calibri;">About Us</h1>
 		</center>
 		<div class="footer-left">
-			<h3 style="font-family: 'Times New Roman', cursive;">Farm2door &copy; </h3>
+			<h3 style="font-family: 'Times New Roman', cursive;">HarvestHub &copy; </h3>
 		<!--	<div class="logo">
 				<a href="index.php"><img src="images/logo.png" width="200px"></a>
 			</div>-->
@@ -94,7 +94,7 @@
 		<div class="footer-center">
 			<div>
 				<i class="fa fa-map-marker"></i>
-				<p style="font-size:20px">Farm2door Fam<span>Vormir</span></p>
+				<p style="font-size:20px">HarvestHub Fam<span>Vormir</span></p>
 			</div>
 			<div>
 				<i class="fa fa-phone"></i>
@@ -108,7 +108,7 @@
 
 		<div class="footer-right">
 			<p class="footer-company-about" style="color:white">
-				<span style="font-size:20px"><b>About Farm2door</b></span>
+				<span style="font-size:20px"><b>About HarvestHub</b></span>
 				Farm2door is e-commerce trading platform for grains & grocerries...
 			</p>
 			<div class="footer-icons">
